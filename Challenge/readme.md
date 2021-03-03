@@ -12,7 +12,7 @@ Dentro de este directorio cargar el o los archivos de la solución al challengue
 Ejemplo de comandos de git en consola
 ```
 cd 20_variables_strings_numbers_booleans
-git checkout master
+git checkout main
 git checkout -b ch_ange_perez_perez
 mkdir angel_perez_perez
 cd angel_perez_perez
