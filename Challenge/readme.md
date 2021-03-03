@@ -25,6 +25,14 @@ git push origin ch_ange_perez_perez
 Una vez agregada la solución a su branch lo que sigue es crear un **pull request (PR)**, para ello
 realizamos los siguientes pasos:
 
+- Actualizar su rama de trabajo con los ultimos cambios de main (antes master)
+```
+git checkout main
+git pull origin main
+git checkout ch_ange_perez_perez
+git merge main
+```
+
 - En la pagína de su branch hacemos clic en el texto **pull request** 
 ![imagen](https://user-images.githubusercontent.com/16826246/109855157-91fb6680-7c1d-11eb-9b9e-88c387afeec4.png)
 
