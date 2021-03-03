@@ -22,6 +22,25 @@ git commit -m "Solución challenge"
 git push origin ch_ange_perez_perez
 ```
 
+Una vez agregada la solución a su branch lo que sigue es crear un **pull request (PR)**, para ello
+realizamos los siguientes pasos:
+
+- En la pagína de su branch hacemos clic en el texto **pull request** 
+![imagen](https://user-images.githubusercontent.com/16826246/109855157-91fb6680-7c1d-11eb-9b9e-88c387afeec4.png)
+
+- Capturar la información requerida
+![imagen](https://user-images.githubusercontent.com/16826246/109855968-8eb4aa80-7c1e-11eb-969a-f05cae892423.png)
+
+donde:
+1. La rama (**branch**) a la cual se unificaran (**merge**) los cambios de su rama
+2. Su rama en la que estan trabajando
+3. Las personas que revisaran su código (**reviewers**), aquí agregan mi usuario **cyberhavok** y si gustan agregar
+  a otras personas adelante.
+4. Título del PR
+5. Comentarios relacionados con el PR
+6. Finalmente crean el pull request (**Create pull request**)
+
+
 # Challenge
 Crea un HTML y mediante javascript guarda en una variable tu nombre y en otra tu apellido.  
 Con la función alert muestra tu nombre y apellido concatenados.
